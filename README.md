@@ -1,6 +1,7 @@
 # Smart Entry Management System
 
-![Smart Entry Management System](docs/smart-entry-management.pnj)
+![Smart Entry Management System](docs/smart-entry-management.png)
+
 
 ## Descrição
 
